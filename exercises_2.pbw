@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "exercises_2.pbt";
+@end;
+DefaultTarget "exercises_2.pbt";
+DefaultRemoteTarget "exercises_2.pbt";
